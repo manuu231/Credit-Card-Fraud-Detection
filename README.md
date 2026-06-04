@@ -158,7 +158,7 @@ Credit-Card-Fraud-Detection-ML/
 
 **Manpreet Kaur**  
 MS Data Science | AI/ML Engineer  
-Wipro Technologies
+
 
 ---
 
